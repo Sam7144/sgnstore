@@ -2,11 +2,13 @@ import NikeUser from '@/models/Users';
 import db from '@/utils/db';
 import NextAuth from 'next-auth';
 import bcryptjs from 'bcryptjs'
+import { getToken } from "next-auth/jwt"
 import CredentialsProvider from 'next-auth/providers/credentials';
 export default NextAuth({
     session:{
         strategy:'jwt'
     },
+    secret: process.env.NEXTAUTH_SECRET,
     callbacks:{
         async jwt({token,user}){
             if(user?._id)token._id=user._id;
