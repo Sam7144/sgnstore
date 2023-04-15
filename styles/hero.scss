@@ -1,0 +1,288 @@
+.hero {
+  .hero__div2{
+    height:50px;
+    width:100%;
+  }
+  .a {
+    .hero__image1 {
+      background-image: url(../public/images/cara.webp);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      height: 300px;
+      width: 100%;
+    }
+    .hero__des {
+      position: absolute;
+      top: 10rem;
+      padding-top: 3rem;
+      @media (max-width: 967px) {
+        h1 {
+          font-size: 42px !important;
+        }
+      }
+      @media (max-width: 500px) {
+        h1 {
+          font-size: 4.6rem !important;
+        }
+        .pc {
+          margin-bottom: 2rem;
+        }
+      }
+      @media (max-width: 393px) {
+        .pc {
+          color: black;
+        }
+      }
+    }
+  }
+  @media (max-width: 500px) {
+    .a {
+      height: 400px !important;
+      //background-color:#d9cccc !important;
+    }
+  }
+  @media (max-width: 400px) {
+    .a {
+      height: 470px !important;
+      //background-color:#d9cccc !important;
+    }
+  }
+  .morgan {
+    border:2px solid black;
+    .morgan__image {
+      background-image: url(../public/images/morgan.webp);
+      background-position: center -10px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 70vh;
+      width: 100%;
+      margin-bottom:30px;
+    }
+  }
+  .air {
+    .air__image {
+      background-image: url(../public/images/air.webp);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center -10px;
+      height: 700px;
+      width: 100%;
+      @media (max-width: 62.5em) {
+        background-image: url(../public/images/medium.webp);
+      }
+      @media (max-width: 37.5em) {
+        background-image: url(../public/images/air-sm.webp);
+      }
+    }
+    .w5 {
+      width: 350px;
+      font-size: 3rem !important;
+    }
+    .btn-b {
+      background-color: black !important;
+      color: white !important;
+      padding-block: 10px !important;
+    }
+    .btn-b:hover {
+      background-color: gray !important;
+    }
+  }
+  .nike-style {
+    .nike__image {
+      background-image: url(../public/images/style.webp);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+      height: 700px;
+      width: 100%;
+
+      
+    }
+    @media (max-width: 62.5em) {
+      .nike__image {
+        background-image: url(../public/images/nike-medium.webp);
+        background-size: cover;
+        height: 500px;
+      }
+    }
+    @media (max-width: 37.5em) {
+      .nike__image{
+      background-image: url(../public/images/nike-sm.webp);
+      background-size: cover;
+      }
+    }
+  }
+  .shop {
+    margin-bottom: 60px;
+    .shop__tags {
+      @media (min-width: 41.1em) {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        align-items: center;
+        gap: 20px;
+      }
+      .shop__tags1 {
+        background-image: url(../public/images/shop3.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 700px;
+        width: 100%;
+        position: relative;
+      }
+      .shop__tags2 {
+        background-image: url(../public/images/shop2.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 700px;
+        width: 100%;
+        position: relative;
+      }
+      @media (max-width: 50em) {
+        .shop__tags1,
+        .shop__tags2 {
+          height: 500px;
+        }
+      }
+      .air-g1 {
+        color: white;
+        position: absolute;
+        left: 30px;
+        bottom: 50px;
+      }
+      .air-g {
+        color: white;
+        position: absolute;
+        left: 30px;
+        bottom: 50px;
+      }
+    }
+  }
+
+  .trending {
+    margin-block-end: 50px;
+    h1 {
+      margin-block: 40px;
+    }
+    .trending__images {
+      @media (min-width: 41.1em) {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        align-items: center;
+        gap: 20px;
+      }
+      .trending__image1 {
+        background-image: url(../public/images/trending1.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 700px;
+        width: 100%;
+        position: relative;
+      }
+      .trending__image2 {
+        background-image: url(../public/images/trending2.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 700px;
+        width: 100%;
+        position: relative;
+      }
+      @media (max-width: 50em) {
+        .trending__image1,
+        .trending__image2 {
+          height: 500px;
+        }
+      }
+      .air-g1 {
+        color: white;
+        position: absolute;
+        left: 30px;
+        bottom: 50px;
+      }
+      .air-g {
+        color: white;
+        position: absolute;
+        left: 30px;
+        bottom: 50px;
+      }
+    }
+  }
+  .run {
+    width: 100%;
+    .run__images {
+      @media (min-width: 41.1em) {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        // display:grid;
+        // grid-template-columns: repeat(3,1fr);
+        // gap:10px;
+        // width: 400px;
+      }
+      @media (min-width: 41.1em) {
+        a {
+          width: 33%;
+        }
+      }
+
+      .run1 {
+        background-image: url(../public/images/run1.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 400px;
+        width: 100%;
+        position: relative;
+      }
+      .run2 {
+        background-image: url(../public/images/run2.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 400px;
+        width: 100%;
+        position: relative;
+      }
+      .run3 {
+        background-image: url(../public/images/run3.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 400px;
+        width: 100%;
+        position: relative;
+      }
+      @media (max-width: 41em) {
+        .run1,
+        .run2,
+        .run3 {
+          width: 100%;
+          margin-block: 20px;
+        }
+      }
+    }
+  }
+  .workout {
+    .workout__image {
+      background-image: url(../public/images/work.webp);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+      height: 600px;
+      width: 100%;
+    }
+  }
+}
+.air2 {
+  width: 100%;
+}
+.air2__div {
+  width: 500px !important;
+}
+.img {
+  width: 400px !important;
+}

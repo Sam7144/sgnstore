@@ -1,0 +1,1447 @@
+{
+    "save":[
+        {
+            "name":"Nike Court Vison Low",
+            "cat":"women",
+            "gender":"womens shoes",
+            "image":"/save/save1.webp",
+            "price":234,
+            "stock":20,
+            "slug":"save1"
+        },
+        {
+            "name":"Nike Air Force 1 Shadow",
+            "cat":"women",
+            "gender":"womens shoes",
+            "slug":"save2",
+            "price":238,
+            "stock":20,
+            "image":"/save/save2.webp"
+        },
+        {
+            "name":"Nike SportsWear Phoenix Fleece",
+            "gender":"womens shoes",
+            "cat":"women",
+            "slug":"save3",
+            "price":134,
+            "stock":20,
+            "image":"/save/save3.webp"
+        },
+        {
+            "name":"Nike SportsWear Phoenix Fleece",
+            "gender":"womens shoes",
+            "cat":"women",
+            "slug":"save4",
+            "price":254,
+            "stock":20,
+            "image":"/save/save4.webp"
+        },
+        {
+            "name":"Nike Air Force 1 Low Next Nature",
+            "cat":"men",
+            "gender":"mens shoes",
+            "slug":"save5",
+            "price":334,
+            "stock":20,
+            "image":"/save/save5.webp"
+        },
+        {
+            "name":"Nike Air Force 1 Low Retro",
+            "cat":"men",
+            "gender":"mens shoes",
+            "slug":"save6",
+            "price":434,
+            "stock":20,
+            "image":"/save/save6.webp"
+        },
+        {
+            "name":"mens sportwear",
+            "cat":"men",
+            "gender":"mens SportWear",
+            "slug":"save7",
+            "stock":20,
+            "price":234,
+            "image":"/save/save7.webp"
+        },
+        {
+            "name":"Nike Sport Lite",
+            "cat":"unisex",
+            "gender":"unisex",
+            "slug":"save8",
+            "stock":20,
+            "price":343,
+            "image":"/save/save8.webp"
+        },
+        {
+            "name":"Nike 1 bag",
+            "cat":"unisex",
+            "gender":"mens shoes",
+            "slug":"save9",
+            "price":264,
+            "stock":20,
+            "image":"/save/save9.webp"
+        },
+        {
+            "name":"Nike Tour Classic 4",
+            "cat":"men",
+            "gender":"mens gloves",
+            "slug":"save10",
+            "price":24,
+            "stock":20,
+            "image":"/save/save10.webp"
+        },
+        {
+            "name":"Nike Tour Combat Bag",
+            "cat":"men",
+            "gender":"men combat bag",
+            "price":54,
+            "stock":20,
+            "slug":"save11",
+            "image":"/save/save11.webp"
+        },
+        {
+            "name":"Nike",
+            "cat":"unisex",
+            "gender":"Bage lanyard",
+            "slug":"save12",
+            "price":24,
+            "stock":20,
+            "image":"/save/save12.webp"
+        },
+        {
+            "name":"Nike",
+            "cat":"women",
+            "gender":"bodysuit",
+            "slug":"save13",
+            "price":234,
+            "stock":20,
+            "image":"/save/save13.webp"
+        },
+        {
+            "name":"Nike Tour Classic 5",
+            "cat":"unisex",
+            "gender":"unisex classic",
+            "slug":"save14",
+            "price":33,
+            "stock":20,
+            "image":"/save/save14.webp"
+        },
+        {
+            "name":"Nike sport lite2",
+            "cat":"unisex",
+            "gender":"waist bag",
+            "slug":"save15",
+            "price":67,
+            "stock":20,
+            "image":"/save/save15.webp"
+        },
+        {
+            "name":"Nike bore tire",
+            "cat":"unisex",
+            "gender":"bore tire",
+            "slug":"save16",
+            "price":17,
+            "stock":20,
+            "image":"/save/save16.webp"
+        },
+        {
+            "name":"Nike pack socks",
+            "cat":"unisex",
+            "gender":"socks",
+            "slug":"save17",
+            "price":57,
+            "stock":20,
+            "image":"/save/save17.webp"
+        },
+        {
+            "name":"Nike 24oz TR HyperChargerStraw",
+            "cat":"waterbottle",
+            "gender":"water bottle and hydration",
+            "slug":"save18",
+            "price":87,
+            "stock":20,
+            "image":"/save/save18.webp"
+        },
+        {
+            "name":"Nike 12oz TR HyperCharger",
+            "cat":"waterbottle",
+            "gender":"water bottle and hydration",
+            "slug":"save19",
+            "price":77,
+            "stock":20,
+            "image":"/save/save19.webp"
+        },
+        {
+            "name":"Nike City Icon",
+            "cat":"sunglasses",
+            "gender":"sunglasses",
+            "slug":"save20",
+            "stock":20,
+            "price":97,
+            "image":"/save/save20.webp"
+        },
+        {
+            "name":"Nike Neo RD",
+            "cat":"sunglasses",
+            "gender":"sunglasses",
+            "slug":"save21",
+            "price":87,
+            "stock":20,
+            "image":"/save/save20.webp"
+        },
+        {
+            "name":"Nike Premier League Flit",
+            "cat":"ball",
+            "gender":"soccerball",
+            "slug":"save21",
+            "price":187,
+            "stock":20,
+            "image":"/save/save22.webp"
+        },
+        {
+            "name":"Nike HyperSpike",
+            "cat":"ball",
+            "gender":"soccerball",
+            "slug":"save23",
+            "stock":20,
+            "price":137,
+            "image":"/save/save23.jpg"
+        },
+        {
+            "name":"Nike SportsWear club fleece",
+            "cat":"women",
+            "gender":"womes logo pullover",
+            "slug":"save27",
+            "price":50,
+            "stock":20,
+            "image":"/save/save27.webp"
+        },
+        {
+            "name":"Nike Victori One",
+            "cat":"men",
+            "gender":"mens slides",
+            "slug":"save26",
+            "stock":20,
+            "price":137,
+            "image":"/save/save26.webp"
+        }
+        
+    ],
+    "air":[
+        {
+            "image":"/air/air1.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "color":"1 color",
+            "price":"180",
+            "origin":"",
+            "cat":"men",
+            "name":"air1",
+            "stock":20
+        },
+        {
+            "image":"/air/air2.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "color":"1 color",
+            "price":"190",
+            "origin":"",
+            "cat":"men",
+            "name":"air2",
+            "stock":20
+        },
+        {
+            "image":"/air/air3.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "color":"1 color",
+            "price":"100",
+            "origin":"",
+             "cat":"men",
+            "name":"air3",
+            "stock":20
+        },
+        {
+            "image":"/air/air4.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "color":"1 color",
+             "cat":"men",
+            "price":"110",
+            "origin":"",
+            "name":"air4",
+            "stock":20
+        },
+        {
+            "image":"/air/air5.webp",
+            "time":"just in",
+            "gender":"women shoes",
+            "color":"1 color",
+            "price":"190",
+            "origin":"",
+             "cat":"women",
+            "name":"air5",
+            "stock":20
+        },
+        {
+            "image":"/air/air6.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "color":"1 color",
+            "price":"100",
+            "cat":"men",
+            "name":"air6",
+            "stock":20
+        },
+        {
+            "image":"/air/air7.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "color":"1 color",
+            "cat":"men",
+            "price":"150",
+            "name":"air7",
+            "stock":20
+        },
+        {
+            "image":"/air/air8.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "cat":"men",
+            "color":"1 color",
+            "price":"160",
+            "origin":"",
+            "name":"air8",
+            "stock":20
+        },
+        {
+            "image":"/air/air9.webp",
+            "time":"just in",
+            "gender":"women shoes",
+            "color":"1 color",
+            "price":"190",
+            "origin":"",
+            "cat":"women",
+            "name":"air9",
+            "stock":20
+        },
+        {
+            "image":"/air/air10.webp",
+            "time":"just in",
+            "gender":"women shoes",
+            "color":"1 color",
+            "price":"170",
+            "origin":"",
+            "cat":"women",
+            "name":"air10",
+            "stock":20
+        },
+        {
+            "image":"/air/air11.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "color":"1 color",
+            "price":"190",
+            "origin":"",
+            "cat":"men",
+            "name":"air11",
+            "stock":20
+        },
+        {
+            "image":"/air/air12.webp",
+            "time":"just in",
+            "gender":"women shoes",
+            "color":"1 color",
+            "price":"190",
+            "origin":"",
+            "cat":"women",
+            "name":"air12",
+            "stock":20
+        },
+        {
+            "image":"/air/air13.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "color":"1 color",
+            "price":"130",
+            "origin":"",
+            "cat":"men",
+            "name":"air13",
+            "stock":20
+        },
+        {
+            "image":"/air/air14.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "color":"1 color",
+            "price":"190",
+            "origin":"",
+             "cat":"men",
+            "name":"air14",
+            "stock":20
+        },
+        {
+            "image":"/air/air15.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "color":"1 color",
+            "price":"190",
+            "origin":"",
+            "cat":"men",
+            "name":"air15",
+            "stock":20
+        },
+        {
+            "image":"/air/air16.webp",
+            "time":"just in",
+            "gender":"women shoes",
+            "color":"1 color",
+            "price":"190",
+            "origin":"",
+            "cat":"women",
+            "name":"air16",
+            "stock":20
+        },
+        {
+            "image":"/air/air17.webp",
+            "time":"just in",
+            "gender":"women shoes",
+            "color":"1 color",
+            "price":"190",
+            "cat":"women",
+            "origin":"",
+            "name":"air17",
+            "stock":20
+        },
+        {
+            "image":"/air/air18.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "color":"1 color",
+            "price":"180",
+            "origin":"",
+            "cat":"men",
+            "name":"air18",
+            "stock":20
+        },
+        {
+            "image":"/air/air19.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "color":"1 color",
+            "price":"89",
+            "origin":"",
+            "cat":"men",
+            "name":"air19",
+            "stock":20
+        },
+        {
+            "image":"/air/air14.webp",
+            "time":"just in",
+            "gender":"men shoes",
+            "color":"1 color",
+            "price":"56",
+            "origin":"",
+            "cat":"men",
+            "name":"air20",
+            "stock":20
+        }
+    ],
+    "morgan":[
+        {"image":"/morgan/m1.webp",
+        "time":"just in",
+        "origin":"Alex Morgan USWNT 2023 stadium home",
+        "gender":"Men Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "price":"130",
+        "name":"jersey1",
+        "stock":20,
+        "cat":"men"
+        },
+        {"image":"/morgan/m2.webp",
+        "time":"just in",
+        "origin":"Alex Morgan USWNT 2023 stadium home",
+        "gender":"Men Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "price":"130",
+        "cat":"men",
+        "stock":20,
+        "name":"jersey2"},
+
+        {"image":"/morgan/m3.webp",
+        "time":"just in",
+        "origin":"Megan Rapinoe USWNT 2023 stadium home",
+        "gender":"womens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "price":"130",
+        "cat":"women",
+        "stock":20,
+        "name":"jersey3"},
+
+        {"image":"/morgan/m4.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"womens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "price":"95",
+        "cat":"women",
+        "stock":20,
+        "name":"jersey4"
+        },
+
+        {"image":"/morgan/m5.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"womens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "price":"95",
+        "cat":"women",
+        "stock":20,
+        "name":"jersey5"},
+
+        {"image":"/morgan/m6.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"womens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "price":"95",
+        "cat":"women",
+        "stock":20,
+        "name":"jersey6"},
+
+        {"image":"/morgan/m7.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"womens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "price":"95",
+        "cat":"women",
+        "stock":20,
+        "name":"jersey7"},
+
+        {"image":"/morgan/m8.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"womens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "price":"95",
+        "cat":"women",
+        "stock":20,
+        "name":"jersey8"},
+
+        {"image":"/morgan/m11.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"womens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "price":"95",
+        "cat":"women",
+        "stock":20,
+        "name":"jersey11"},
+
+        {"image":"/morgan/m12.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"womens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "price":"95",
+        "cat":"women",
+        "stock":20,
+        "name":"jersey12"},
+
+        {"image":"/morgan/m13.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"womens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"women",
+        "stock":20,
+        "price":"95",
+        "name":"jersey13"},
+
+        {"image":"/morgan/m14.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"womens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"women",
+        "price":"95",
+        "stock":20,
+        "name":"jersey14"},
+
+        {"image":"/morgan/m15.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"mens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"men",
+        "stock":20,
+        "price":"95",
+        "name":"jersey15"},
+        {"image":"/morgan/m16.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"mens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"men",
+        "price":"95",
+        "stock":20,
+        "name":"jersey16"},
+        {"image":"/morgan/man1.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"mens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"men",
+        "price":"95",
+        "stock":20,
+        "name":"jersey17"},
+        {"image":"/morgan/man2.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"mens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"men",
+        "price":"95",
+        "stock":20,
+        "name":"jersey18"},
+        {"image":"/morgan/man3.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"mens Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"men",
+        "stock":20,
+        "price":"95",
+        "name":"jersey19"},
+        {"image":"/morgan/boy1.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"boys Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"boys",
+        "price":"95",
+        "stock":20,
+        "name":"jersey20"},
+        {"image":"/morgan/boy2.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"boys Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"boys",
+        "price":"95",
+        "stock":20,
+        "name":"jersey21"},
+        {"image":"/morgan/boy3.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"boys Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"boys",
+        "price":"95",
+        "stock":20,
+        "name":"jersey21"},
+        {"image":"/morgan/girl1.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"girls Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"girl",   
+        "price":"95",
+        "stock":20,
+        "name":"jersey21"},
+        {"image":"/morgan/girl2.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"girls Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"girl",
+        "price":"95",
+        "stock":20,
+        "name":"jersey22"},
+        {"image":"/morgan/girl3.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"girls Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"girl",
+        "price":"95",
+        "stock":20,
+        "name":"jersey22"},
+        {"image":"/morgan/girl4.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"girls Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"girl",
+        "price":"95",
+        "stock":20,
+        "name":"jersey23"},
+        {"image":"/morgan/uni1.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"unisex Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"unisex",
+        "price":"25",
+        "stock":20,
+        "name":"jersey24"},
+        {"image":"/morgan/uni2.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"unisex Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"unisex",
+        "price":"35",
+        "stock":20,
+        "name":"jersey25"},
+        {"image":"/morgan/uni3.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"unisex Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"unisex",
+        "price":"25",
+        "stock":20,
+        "name":"jersey26"},
+        {"image":"/morgan/uni4.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"unisex Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"unisex",
+        "price":"95",
+        "stock":20,
+        "name":"jersey27"
+         },
+
+        {"image":"/morgan/uni5.webp",
+        "time":"just in",
+        "origin":"USWNT 2023 stadium home",
+        "gender":"unisex Nike Dir FIT soccer jersey",
+        "color":"1 color",
+        "cat":"unisex",
+        "price":"29",
+        "stock":20,
+        "name":"jersey28"}
+    ]
+    ,
+    "iconic":[
+        {
+            "name":"jordan 24t",
+            "slug":"jordan",
+            "price":345 ,
+            "image":"/iconic/jordan1.webp" ,
+            "stock":20
+       },
+       {
+        "name":"Classic Nike",
+        "slug":"classicNikes",
+        "price":245,
+        "image":"/iconic/classic1.webp",
+        "stock":20
+       },
+       {
+        "name":"Air Max 35toZ",
+        "slug":"AirMax",
+        "price":445,
+        "image":"/iconic/classic2.webp",
+        "stock":20
+       }
+    ],
+    "judge":[
+        {
+            "name":"Nike Sb Zoom Blazer mid",
+            "cat":"unisex",
+            "price":90,
+            "slug":"b1",
+            "stock":20,
+            "image":"/judge2/b1.webp"
+         },
+         {
+            "name":"Nike Blazer mid '77",
+            "cat":"women",
+            "price":105,
+            "slug":"b2",
+            "stock":20,
+            "image":"/judge2/b2.webp"
+         },
+         {
+            
+                "name":"Nike Blazer mid '77 vintage",
+                "cat":"men",
+                "price":105,
+                "slug":"b3",
+                "stock":20,
+                "image":"/judge2/b3.webp"
+         },
+         {
+            "name":"Nike Blazer mid '77",
+            "cat":"women",
+            "price":115,
+            "slug":"b4",
+            "stock":20,
+            "image":"/judge2/b4.webp"
+         },
+         {
+            
+            "name":"Nike Blazer mid pro club",
+            "cat":"men",
+            "price":115,
+            "slug":"b5",
+            "stock":20,
+            "image":"/judge2/b5.webp"
+     },
+     {
+        "name":"Nike Blazer low platform",
+        "cat":"women",
+        "price":100,
+        "slug":"b6",
+        "stock":20,
+        "image":"/judge2/b6.webp"
+     },
+     {
+            
+        "name":"Nike Blazer mid '77 vintage",
+        "cat":"men",
+        "price":92,
+        "slug":"b7",
+        "stock":20,
+        "image":"/judge2/b7.webp"
+    },
+     {
+            
+    "name":"Nike Blazer low 77' jumbo",
+    "cat":"men",
+    "price":100,
+    "slug":"b8",
+    "stock":20,
+    "image":"/judge2/b8.webp"
+     },
+     {
+            
+        "name":"Nike Blazer mid '77 premium",
+        "cat":"men",
+        "price":97,
+        "slug":"b9",
+        "stock":20,
+        "image":"/judge2/b9.webp"
+   },
+   {
+            
+    "name":"Nike Blazer mid '77 low",
+    "cat":"men",
+    "price":97,
+    "slug":"b10",
+    "stock":20,
+    "image":"/judge2/b10.webp"
+   },
+   {
+            
+    "name":"Nike Blazer mid '77 premium",
+    "cat":"men",
+    "price":77,
+    "slug":"b11",
+    "stock":20,
+    "image":"/judge2/b11.webp"
+   },
+   {
+            
+    "name":"Nike sb Blazer court",
+    "cat":"unisex",
+    "price":49,
+    "slug":"b12",
+    "stock":20,
+    "image":"/judge2/b12.webp"
+   },
+   {
+            
+    "name":"Nike sb zoom Blazer mid premium",
+    "cat":"unisex",
+    "price":120,
+    "slug":"b13",
+    "stock":20,
+    "image":"/judge2/b12.webp"
+   },
+   {
+            
+    "name":"Nike sb zoom Blazer mid premium plus",
+    "cat":"unisex",
+    "price":80,
+    "slug":"b14",
+    "stock":20,
+    "image":"/judge2/b14.webp"
+   },
+   {
+            
+    "name":"Nike sb zoom Blazer low pro GT",
+    "cat":"unisex",
+    "price":85,
+    "slug":"b15",
+    "stock":20,
+    "image":"/judge2/b15.webp"
+   },
+      {      
+   "name":"Nike sb zoom Blazer mid",
+   "cat":"unisex",
+   "price":85,
+   "slug":"b16",
+   "stock":20,
+   "image":"/judge2/b16.webp"
+  },
+  {
+            
+    "name":"Nike sb zoom Blazer mid premium plus",
+    "cat":"unisex",
+    "price":89,
+    "slug":"b17",
+    "stock":20,
+    "image":"/judge2/b17.webp"
+   },
+   
+    {
+            
+        "name":"Nike sb zoom Blazer mid premium plus",
+        "cat":"unisex",
+        "price":89,
+        "slug":"b18",
+        "stock":20,
+        "image":"/judge2/b18.webp"
+       },
+       {
+            
+        "name":"Nike sb zoom Blazer mid premium plus",
+        "cat":"women",
+        "price":89,
+        "slug":"b19",
+        "stock":20,
+        "image":"/judge2/b20.webp"
+       }
+   
+  
+    ],
+    "tour":[
+        {
+            "name":"Nike Air Zoom Victory Tour 3 NRG",
+            "cat":"men",
+            "stock":20,
+            "price":200,
+            "slug":"tour1",
+            "image":"/tour/m1.webp"
+        },
+        {
+            "name":"Nike Air Zoom Infinity Tour",
+            "cat":"unisex",
+            "stock":20,
+            "price":180,
+            "slug":"tour2",
+            "image":"/tour/m2.webp"
+        },
+        {
+            "name":"Nike Air Ace Next Nature",
+            "cat":"unisex",
+            "stock":20,
+            "price":120,
+            "slug":"tour3",
+            "image":"/tour/m3.webp"
+        },
+        {
+            "name":"Nike Air Maz 1",
+            "cat":"men",
+            "stock":20,
+            "price":170,
+            "slug":"tour4",
+            "image":"/tour/m4.webp"
+        },
+        {
+            "name":"Nike Dri Fit",
+            "cat":"men",
+            "stock":20,
+            "price":37,
+            "slug":"tour5",
+            "image":"/tour/m5.webp"
+        },
+        {
+            "name":"Nike G-flex",
+            "cat":"unisex",
+            "stock":20,
+            "price":55,
+            "slug":"tour6",
+            "image":"/tour/m6.webp"
+        },
+        {
+            "name":"Nike Air Hybrid Energy",
+            "cat":"men",
+            "stock":20,
+            "price":295,
+            "slug":"tour7",
+            "image":"/tour/m7.webp"
+        },
+        {
+            "name":"Jordan Fade Away",
+            "cat":"men",
+            "stock":20,
+            "price":360,
+            "slug":"tour8",
+            "image":"/tour/m8.webp"
+        },
+        {
+            "name":"Nike Ritro 72",
+            "cat":"men",
+            "stock":20,
+            "price":37,
+            "slug":"tour9",
+            "image":"/tour/m9.webp"
+        },
+        {
+            "name":"Nike Ritro 72 jacket",
+            "cat":"men",
+            "stock":20,
+            "price":67,
+            "slug":"tour10",
+            "image":"/tour/m10.webp"
+        },
+        {
+            "name":"Nike Air 86 G",
+            "cat":"women",
+            "stock":20,
+            "price":150,
+            "slug":"tour11",
+            "image":"/tour/m11.webp"
+        },
+        {
+            "name":"Nike Infinity Pro",
+            "cat":"women",
+            "stock":20,
+            "price":110,
+            "slug":"tour12",
+            "image":"/tour/m12.webp"
+        },
+        {
+            "name":"Nike Air Nitro",
+            "cat":"women",
+            "stock":20,
+            "price":50,
+            "slug":"tour13",
+            "image":"/tour/m13.webp"
+        },
+        {
+            "name":"Nike Dri Fit",
+            "cat":"women",
+            "stock":20,
+            "price":75,
+            "slug":"tour14",
+            "image":"/tour/m14.webp"
+        },
+        {
+            "name":"Nike Dri Fit Pro 32",
+            "cat":"women",
+            "stock":20,
+            "price":85,
+            "slug":"tour15",
+            "image":"/tour/m15.webp"
+        },
+        {
+            "name":"Nike Dri Fit Pro 32 Advantage",
+            "cat": "women",
+            "stock":20,
+            "price":85,
+            "slug":"tour16",
+            "image":"/tour/m16.webp"
+        },
+        {
+            "name":"Nike Dri Advantage",
+            "cat": "women",
+            "stock":20,
+            "price":125,
+            "slug":"tour17",
+            "image":"/tour/m17.webp"
+        },
+        {
+            "name":"Nike Jordan Dri Fit",
+            "cat": "men",
+            "stock":20,
+            "price":80,
+            "slug":"tour18",
+            "image":"/tour/m18.webp"
+        },
+        {
+            "name":"Nike Jordan Dri Fit ADV",
+            "cat": "men",
+            "stock":20,
+            "price":90,
+            "slug":"tour19",
+            "image":"/tour/m19.webp"
+        },
+        {
+            "name":"Nike Jordan SPort",
+            "cat": "men",
+            "stock":20,
+            "price":125,
+            "slug":"tour20",
+            "image":"/tour/m20.webp"
+        }
+    ],
+    "basket":[
+        {
+            "name":"Nike Dri Fit Tiger Woods",
+            "cat":"men",
+            "stock":20,
+            "price":110,
+            "slug":"basket1",
+            "image":"/basket/n2.webp"
+        },
+        {
+            "name":"Nike Dri Fit Vapor",
+            "cat":"men",
+            "stock":20,
+            "price":95,
+            "slug":"basket2",
+            "image":"/basket/n2.webp"
+        },
+        {
+            "name":"Nike Air Zoom Tiger Woods",
+            "cat":"men",
+            "stock":20,
+            "price":150,
+            "slug":"basket3",
+            "image":"/basket/n3.webp"
+        },
+        {
+            "name":"Nike Air Zoom gloves",
+            "cat":"men",
+            "stock":20,
+            "price":50,
+            "slug":"basket4",
+            "image":"/basket/n4.webp"
+        },
+        {
+            "name":"Nike Air Zoom cap",
+            "cat":"unisex",
+            "stock":20,
+            "price":20,
+            "slug":"basket5",
+            "image":"/basket/n5.webp"
+        },
+        {
+            "name":"Nike Dri Tiger Woods",
+            "cat":"men",
+            "stock":20,
+            "price":85,
+            "slug":"basket6",
+            "image":"/basket/n6.webp"
+        },
+        {
+            "name":"Nike Dri Fit Vapor",
+            "cat":"men",
+            "stock":20,
+            "price":95,
+            "slug":"basket7",
+            "image":"/basket/n7.webp"
+        },
+        {    
+        "name":"Nike Dri-Fit Tiger Woods",
+        "cat":"men",
+        "stock":20,
+        "price":90,
+        "slug":"basket8",
+        "image":"/basket/n8.webp"
+      },
+      {    
+        "name":"Nike Ritro 72",
+        "cat":"women",
+        "stock":20,
+        "price":31,
+        "slug":"basket9",
+        "image":"/basket/n9.webp"
+      },
+      {    
+        "name":"Nike Ritro 72 legacy",
+        "cat":"women",
+        "stock":20,
+        "price":37,
+        "slug":"basket10",
+        "image":"/basket/n10.webp"
+      },
+      {    
+        "name":"Nike infinity Tour",
+        "cat":"unisex",
+        "stock":20,
+        "price":137,
+        "slug":"basket11",
+        "image":"/basket/n16.webp"
+      }
+    ],
+    "trending":[
+        {
+            "name":"Air Jordan 1 Low SE CRAFT",
+            "image":"/images/nike1.webp",
+            "price":334,
+            "stock":20,
+            "slug":"nike1"
+        },
+        {
+            "name":"Air Jordan 2 Low SE CRAFT",
+            "image":"/images/nike2.webp",
+            "price":284,
+            "stock":20,
+            "slug":"nike2"
+        },
+        {
+            "name":"Air Jordan 3 Low SE CRAFT",
+            "image":"/images/nike3.webp",
+            "price":234,
+            "stock":20,
+            "slug":"nike3"
+        },
+        {
+            "name":"Air Jordan 4 Low SE CRAFT",
+            "image":"/images/nike4.webp",
+            "price":294,
+            "stock":20,
+            "slug":"nike4"
+        },
+        {
+            "name":"Air Jordan 5 Low SE CRAFT",
+            "image":"/images/nike5.webp",
+            "price":434,
+            "stock":20,
+            "slug":"nike5"
+        },
+        {
+            "name":"Air Jordan 6 Low SE CRAFT",
+            "image":"/images/nike6.webp",
+            "price":254,
+            "stock":20,
+            "slug":"nike6"
+        }
+    ],
+    "running":[
+        {
+            "name":"Pegasus 39",
+            "stock":20,
+            "price":245,
+            "slug":"run1",
+            "image":"/images/run1.webp"
+        },
+        {
+            "name":"invicible 3",
+            "stock":20,
+            "price":445,
+            "slug":"run2",
+            "image":"/images/run2.webp"
+        },
+        {
+            "name":"infinity 3",
+            "stock":20,
+            "price":345,
+            "slug":"run3",
+            "image":"/images/run3.webp"
+        }
+    ],
+    "yoga":[
+        {
+            "name":"Nike Yoga Luxe",
+            "cat":"women",
+            "slug":"workout1",
+            "price":50,
+            "stock":20,
+            "image":"/yoga/y1.webp"
+        },
+        {
+            "name":"Nike Zenvy",
+            "cat":"women",
+            "slug":"workout2",
+            "price":110,
+            "stock":20,
+            "image":"/yoga/y2.webp"
+        },
+        {
+            "name":"Nike Alate Ellipse",
+            "cat":"women",
+            "slug":"workout3",
+            "price":65,
+            "stock":20,
+            "image":"/yoga/y3.webp"
+        },
+        {
+            "name":"Nike Zenvy",
+            "cat":"women",
+            "slug":"workout4",
+            "price":100,
+            "stock":20,
+            "image":"/yoga/y4.webp"
+        },
+        {
+            "name":"Nike Yoga Lupse",
+            "cat":"women",
+            "slug":"workout5",
+            "price":95,
+            "stock":20,
+            "image":"/yoga/y5.webp"
+        },
+        {
+            "name":"Nike Alate trace",
+            "cat":"women",
+            "slug":"workout6",
+            "price":55,
+            "stock":20,
+            "image":"/yoga/y6.webp"
+        },
+        {
+            "name":"Nike",
+            "cat":"unisex",
+            "slug":"workout7",
+            "price":75,
+            "stock":20,
+            "image":"/yoga/y7.webp"
+        },
+        {
+            "name":"Nike Mystery",
+            "cat":"unisex",
+            "slug":"workout8",
+            "price":46,
+            "stock":20,
+            "image":"/yoga/y8.webp"
+        },
+        {
+            "name":"Nike",
+            "cat":"unisex",
+            "slug":"workout9",
+            "price":52,
+            "stock":20,
+            "image":"/yoga/y9.webp"
+        },
+        {
+            "name":"Nike Mystery mmw",
+            "cat":"unisex",
+            "slug":"workout10",
+            "price":63,
+            "stock":20,
+            "image":"/yoga/y10.webp"
+        },
+        {
+            "name":"Nike Mystery",
+            "cat":"unisex",
+            "slug":"workout11",
+            "price":18,
+            "stock":20,
+            "image":"/yoga/y11.webp"
+        },
+        {
+            "name":"Nike Mystery",
+            "cat":"unisex",
+            "slug":"workout12",
+            "price":16,
+            "stock":20,
+            "image":"/yoga/y12.webp"
+        },
+        {
+            "name":"Nike Yoga DRI-FIT",
+            "cat":"men",
+            "slug":"workout13",
+            "price":76,
+            "stock":20,
+            "image":"/yoga/y13.webp"
+        },
+        {
+            "name":"Nike Yoga DRI-FIT Legend",
+            "cat":"men",
+            "slug":"workout14",
+            "price":96,
+            "stock":20,
+            "image":"/yoga/y14.webp"
+        },
+        {
+            "name":"Nike Yoga Luxe z023",
+            "cat":"women",
+            "slug":"workout15",
+            "price":150,
+            "stock":20,
+            "image":"/yoga/y15.webp"
+        },
+        {
+            "name":"Nike Yoga Luxe DRI-FIT",
+            "cat":"women",
+            "slug":"workout16",
+            "price":110,
+            "stock":20,
+            "image":"/yoga/y16.webp"
+        }
+    ],
+    "popular":[
+        {
+            "name":"Air Jordan 1 low",
+            "cat":"men",
+            "stock":20,
+            "price":110,
+            "slug":"popular1",
+            "image":"/popular/p1.webp"
+        },
+        {
+            "name":"Air Jordan 1 low",
+            "cat":"Big Kids Shoes",
+            "stock":20,
+            "price":90,
+            "slug":"popular2",
+            "image":"/popular/p2.webp"
+        },
+        {
+            "name":"Jumpman Two Trey",
+            "cat":"men",
+            "stock":20,
+            "price":115,
+            "slug":"popular3",
+            "image":"/popular/p3.webp"
+        },
+        {
+            "name":"Air Jordan 1 mid",
+            "cat":"men",
+            "stock":20,
+            "price":125,
+            "slug":"popular4",
+            "image":"/popular/p4.webp"
+        },
+        {
+            "name":"Air Jordan 1 low",
+            "cat":"men",
+            "stock":20,
+            "price":110,
+            "slug":"popular5",
+            "image":"/popular/p5.webp"
+        },
+        {
+            "name":"Air Jordan 1 low",
+            "cat":"Big Kids Shoes",
+            "stock":20,
+            "price":90,
+            "slug":"popular6",
+            "image":"/popular/p6.webp"
+        },
+        {
+            "name":"Air Jordan 1 low",
+            "cat":"women",
+            "stock":20,
+            "price":110,
+            "slug":"popular7",
+            "image":"/popular/p7.webp"
+        },
+        {
+            "name":"Air Jordan 1 low",
+            "cat":"men",
+            "stock":20,
+            "price":110,
+            "slug":"popular8",
+            "image":"/popular/p8.webp"
+        },
+        {
+            "name":"Air Jordan 1 low",
+            "cat":"men",
+            "stock":20,
+            "price":110,
+            "slug":"popular9",
+            "image":"/popular/p9.webp"
+        }
+    ]
+
+}
