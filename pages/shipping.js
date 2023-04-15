@@ -28,7 +28,7 @@ useEffect(() => {
 
 const submitHandler = ({ fullName, Address, City, postalCode, Country }) => {
   dispatch({
-    type: 'SAVE_SHIPPING_ADDRESS',
+    type: 'SHIPPING_ADDRESS',
     payload: { fullName, Address, City, postalCode, Country },
   });
   Cookies.set(
