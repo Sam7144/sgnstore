@@ -42,7 +42,7 @@ function OrderScreen() {
     const fetchOrder = async () => {
       try {
         dispatch({ type: 'FETCH_REQUEST' });
-        const { data } = await axios.get(`/api/orders/${orderId}`);
+        const { data } = await axios.get(`/api/orders`);
         dispatch({ type: 'FETCH_SUCCESS', payload: data });
       } catch (err) {
         dispatch({ type: 'FETCH_FAIL', payload: getError(err) });
