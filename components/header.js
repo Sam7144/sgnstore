@@ -97,7 +97,7 @@ function Header() {
                   <Menu.Item>
                    
                       <a
-                        href="/"
+                        href="#"
                         className="dropdown-link"
                         onClick={logoutHandler}
                       >
