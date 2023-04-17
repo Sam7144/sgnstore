@@ -95,20 +95,7 @@ function Header() {
                 </Menu.Button>
                 <Menu.Items className="absolute w-56 right-0 bg-white origin-top-right shadow-lg">
                   <Menu.Item>
-                    <DropDownLink className="dropdown-link" href="/profile">
-                      Profile
-                    </DropDownLink>
-                  </Menu.Item>
-                  <Menu.Item>
-                    <DropDownLink
-                      className="dropdown-link"
-                      href="/order-history"
-                    >
-                      Order History
-                    </DropDownLink>
-                  </Menu.Item>
-                  <Menu.Item>
-                    <DropDownLink className="dropdown-link" href="/profile">
+                   
                       <a
                         href="/"
                         className="dropdown-link"
@@ -116,7 +103,7 @@ function Header() {
                       >
                         logout
                       </a>
-                    </DropDownLink>
+                    
                   </Menu.Item>
                 </Menu.Items>
               </Menu>
