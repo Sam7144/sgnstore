@@ -1,1 +1,2 @@
-*.es linguist-language=JS
+* linguist-vendored
+*.js linguist-vendored=false
