@@ -43,8 +43,8 @@ function Header() {
     router.push(`/${query}`);
   };
   return (
-    <header className="opacity-100  bg-gray ">
-      <nav className="flex items-center justify-between nike-container head wrapper">
+    <header className="opacity-100 z-50 bg-white ">
+      <nav className="flex items-center justify-between nike-containe head wrapper">
         <div className="flex items-center">
           <Link href='/'>
           <img src="/nike/nikelogo.png" alt="logo" className="w-16 h-auto" />
